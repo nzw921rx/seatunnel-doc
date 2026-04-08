@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant Servlet as SubmitJobServlet
     participant JobInfo as JobInfoService
@@ -73,3 +74,4 @@ sequenceDiagram
             end
         end
     end
+```
