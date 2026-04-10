@@ -1,6 +1,6 @@
 # Seatunnel 调用submitJob提交任务后,处理逻辑流程时序图
 
-### 本图主要梳理了提交任务只TaskExecutionService并部署任务，不涉及TaskExecutionService里面线程模型和数据流
+### 本图主要梳理了提交任务d到TaskExecutionService并部署任务，不涉及TaskExecutionService里面线程模型和数据流
 
 ```mermaid
 sequenceDiagram
